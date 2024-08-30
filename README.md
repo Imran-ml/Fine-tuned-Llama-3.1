@@ -31,8 +31,6 @@ For fine tuning, I used the following setup:
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*mjbBdZ1-p7cKQkp-bU7aCg.gif">
 
-
-
 ## **About Author**
 
 **Name:** Muhammad Imran Zaman  
