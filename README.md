@@ -14,7 +14,7 @@
 
 <p> Additionally, Unsloth broad compatibility and customization options allow to do the quantization process to fit the specific needs of products. This flexibility combined with its ability to cut <strong>VRAM usage by up to 60%</strong>, makes Unsloth an essential tool in AI toolkit. Its not just about optimizing models its about making cutting-edge AI more accessible and efficient for real world applications.</p>
 </div>
-#### For fine tuning, I used the following setup:
+### For fine tuning, I used the following setup:
 
 <ul style="margin1 20px; padding: 10px; list-style-type: disc;">
     <li><strong><a href="https://pytorch.org/" target="_blank">Torch 2.1.1 with CUDA 12.1</a></strong> for efficient computation.</li>
@@ -45,4 +45,5 @@
 - [YouTube Channel](https://www.youtube.com/channel/UCImranZaman)
 - [GitHub Repository](https://github.com/Imran-ml/Mental-Health-Chatbot-LLaMA3.1)
 - [Medium Story](https://imranzaman-5202.medium.com/)
+- 
 
